@@ -1,4 +1,4 @@
-**CONTACT ME**
+#CONTACT ME
 
 **e-mail:** <egarnicamateus@gmail.com>
 
