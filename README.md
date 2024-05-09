@@ -24,22 +24,34 @@ B.S., Physics - Universidad Pedagógica y Tecnológica de Colombia.
 ### Research Assitant
 
 Universidad Pedagógica y Tecnológica de Colombia
+
 •	Testing and correction of programs used in the laboratory along with their update in the Python language (libraries such as NumPy, Pandas, Sklearn) through a GitHub repository.
+
 •	The required information was investigated using online library resources and university data, in addition to the official documentation of the libraries used.
+
 •	Standard processes and procedures were carried out to investigate new materials, as well as the comparison of materials already worked on in databases with SQL.
+
 •	Review and improvement of processes for the creation of perovskite-type materials.
+
 •	Document the design of the models, instructions for use and progress in the research carried out by the research group.
-•	Feedback of the results found through data visualization (PowerBi)
+
+•	Feedback of the results found through data visualization (PowerBi).
 
 ### Mathematics and Physics teacher
 
 CorteOrinoquia
+
 •	Design and teach effective mathematics and physics classes for competency-based technical students.
+
 •	Explain concepts clearly and encourage active participation and critical thinking.
+
 •	Evaluate student progress and provide constructive feedback.
+
 •	Integrate technology and educational resources to enrich teaching.
+
 •	Stay updated on educational advances and collaborate with other teachers.
-•	Cultivate a learning environment that stimulates interest and understanding of subjects
+
+•	Cultivate a learning environment that stimulates interest and understanding of subjects.
 
 ## TALKS & OUTREACH
 
