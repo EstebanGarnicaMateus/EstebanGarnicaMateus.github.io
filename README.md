@@ -1,5 +1,4 @@
-# Esteban Garnica Mateus
-***Physicist and Data Scientist***
+**CONTACT ME**
 
 **e-mail:** <egarnicamateus@gmail.com>
 
