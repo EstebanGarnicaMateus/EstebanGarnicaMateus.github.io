@@ -45,7 +45,7 @@ CorteOrinoquia
 ## DATA PROJECTS
 Listed below are several personal projects that I have worked on and carried out on my own in order to practice and understand Data Science and Data Analysis work in greater depth. To adequately understand what follows, it will be communicated following the structure:
 
-### Project name [Link to project on GitHub]()
+### [Project name Link to project on GitHub]()
 > Short description where the problem to be solved is disclosed, the source of the data and finally a list of the characteristics used for its effective resolution:
 > + Data preprocessing.
 > + Exploratory data analysis (EDA).
