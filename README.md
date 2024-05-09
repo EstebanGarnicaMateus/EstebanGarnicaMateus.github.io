@@ -1,4 +1,4 @@
-# CONTACT ME
+# ESTEBAN GARNICA MATEUS 
 
 **e-mail:** <egarnicamateus@gmail.com>
 
@@ -47,6 +47,7 @@ Listed below are several personal projects that I have worked on and carried out
 
 ### [Project name Link to project on GitHub]()
 > Short description where the problem to be solved is disclosed, the source of the data and finally a list of the characteristics used for its effective resolution:
+
 + Data preprocessing.
 + Exploratory data analysis (EDA).
 + Analysis of observed data.
