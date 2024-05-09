@@ -2,7 +2,7 @@
 
 **e-mail:** <egarnicamateus@gmail.com>
 
-[LinkedIn](https://www.linkedin.com/in/esteban-garnica-mateus/)
+**LinkedIn:** [Esteban Garnica Mateus](https://www.linkedin.com/in/esteban-garnica-mateus/)
 
 ## ABOUT ME
 
