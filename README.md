@@ -6,21 +6,21 @@
 
 ## ABOUT ME
 
-Bilingual Physicist (ES-EN) from the [Universidad Pedagógica y Tecnológica de Colombia](https://www.uptc.edu.co/sitio) who has researched in the search for new semiconductor materials. My experience as a researcher allows me to delve into topics with high scientific rigor, in turn, it has shown me the value of continuing to study, in particular Data Science and Data Analytics, allowing me to extract knowledge through processes, algorithms and systems. and perceptions of data. in various forms.
+Bilingual Physicist (ES-EN) from the [Universidad Pedagógica y Tecnológica de Colombia](https://www.uptc.edu.co/sitio) who has researched in the search for new semiconductor materials. My experience as a researcher allows me to delve into topics with high scientific rigor, in turn, it has shown me the value of continuing to study, in particular Data Science and Data Analytics, allowing me to extract knowledge through processes, algorithms, systems and perceptions of data in various forms.
 
 ## EDUCATION 
 
-B.S., Physics - Universidad Pedagógica y Tecnológica de Colombia.
+***B.S., Physics*** - Universidad Pedagógica y Tecnológica de Colombia.
 
 ## TECHNICAL SKILLS
 
-**Tools:** Python, R, MATLAB, SQL, PowerBI, Excel, GitHub, Pandas, Sklearn, NumPy.
+**Tools:** Python, R, MATLAB, SQL, PowerBI, Excel, GitHub, Git, Pandas, Sklearn, NumPy.
 
-**Certifications:** Data Science Route (Platzi), Basics: Data, data, everywhere (Google), How to solve problems and make decisions effectively (University of California, Irvine), Ciencia de Datos (MinTic - Universidad Distrital Francisco José de Caldas), Análisis de Datos (MinTic - Universidad Distrital Francisco José de Caldas).
+**Certifications:** Data Science Route ([Platzi](https://platzi.com/)), Basics: Data, data, everywhere (Google), How to solve problems and make decisions effectively (University of California, Irvine), Ciencia de Datos (MinTic - Universidad Distrital Francisco José de Caldas), Análisis de Datos (MinTic - Universidad Distrital Francisco José de Caldas).
 
 ## WORK EXPERIENCE
 
-### Research Assitant
+#### **Research Assistant**
 Universidad Pedagógica y Tecnológica de Colombia
 
 + Testing and correction of programs used in the laboratory along with their update in the Python language (libraries such as NumPy, Pandas, Sklearn) through a GitHub repository.
@@ -30,7 +30,7 @@ Universidad Pedagógica y Tecnológica de Colombia
 +	Document the design of the models, instructions for use and progress in the research carried out by the research group.
 +	Feedback of the results found through data visualization (PowerBi).
 
-### Mathematics and Physics teacher
+#### **Mathematics and Physics teacher**
 CorteOrinoquia
 +	Design and teach effective mathematics and physics classes for competency-based technical students.
 +	Explain concepts clearly and encourage active participation and critical thinking.
@@ -40,9 +40,14 @@ CorteOrinoquia
 +	Cultivate a learning environment that stimulates interest and understanding of subjects.
 
 ## TALKS & OUTREACH
-+ Influencia en la sustitución catiónica en el sistema tipo perovskita A_{2.68}Sm_(1.32)Mn_(0.92)Ti_(2.68)Fe_(0.4)O_12 donde (A=Sr,Ba). I Congreso Internacional de Ciencias Básicas "La ciencia en la frontera".
++ Influencia en la sustitución catiónica en el sistema tipo perovskita $A_{2.68}Sm_(1.32)Mn_(0.92)Ti_(2.68)Fe_(0.4)O_12$ donde ($A=Sr,Ba$). I Congreso Internacional de Ciencias Básicas "La ciencia en la frontera".
+
+===
 
 ## DATA PROJECTS
+
+===
+
 Listed below are several personal projects that I have worked on and carried out on my own in order to practice and understand Data Science and Data Analysis work in greater depth. To adequately understand what follows, it will be communicated following the structure:
 
 ### [Project name Link to project on GitHub]()
@@ -56,3 +61,22 @@ Short description where the problem to be solved is disclosed, the source of the
 + Training and evaluation of the model used.
 + If an optimization was performed on the model.
 + Validation and presentation of the model.
+
+
+### [Rate of Abandonment Employees in a Company](https://github.com/EstebanGarnicaMateus/EstebanGarnicaMateus.github.io/blob/main/Projects/Abandonment_Employees/Abandonment_employees.ipynb)
+
+### [London Bike Sharing](https://github.com/EstebanGarnicaMateus/EstebanGarnicaMateus.github.io/blob/main/Projects/Advertaising/ML_LR_microproject.ipynb)
+
+### [Click on an Advertising](https://github.com/EstebanGarnicaMateus/EstebanGarnicaMateus.github.io/blob/main/Projects/Bike_Sharing_London/Bike_sharing.ipynb)
+
+### [Potential to Acquire Credit](https://github.com/EstebanGarnicaMateus/EstebanGarnicaMateus.github.io/blob/main/Projects/Credit_Bank_Potential/Credit_bank.ipynb)
+
+### [Forecast Movie IMDB](https://github.com/EstebanGarnicaMateus/EstebanGarnicaMateus.github.io/blob/main/Projects/Forecast_IMDB/Forecast_ML.ipynb)
+
+### [Information About Data Science Jobs](https://github.com/EstebanGarnicaMateus/EstebanGarnicaMateus.github.io/blob/main/Projects/Glassdoor_Data_Jobs/DS_glassdoor.ipynb)
+
+### [KNN Algorithm to Classify Instances](https://github.com/EstebanGarnicaMateus/EstebanGarnicaMateus.github.io/blob/main/Projects/KNN/ML_KNN_microproject.ipynb)
+
+### [Calculation of Life Expectancy](https://github.com/EstebanGarnicaMateus/EstebanGarnicaMateus.github.io/blob/main/Projects/Life_Expectancy/Life_expectancy.ipynb)
+
+### [Information for Titanic Passengers](https://github.com/EstebanGarnicaMateus/EstebanGarnicaMateus.github.io/blob/main/Projects/Titanic/Titanic.ipynb)
