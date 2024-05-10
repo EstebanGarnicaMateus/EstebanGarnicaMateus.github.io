@@ -42,11 +42,7 @@ CorteOrinoquia
 ## TALKS & OUTREACH
 + Influencia en la sustitución catiónica en el sistema tipo perovskita $A_{2.68}Sm_(1.32)Mn_(0.92)Ti_(2.68)Fe_(0.4)O_12$ donde ($A=Sr,Ba$). I Congreso Internacional de Ciencias Básicas "La ciencia en la frontera".
 
-===
-
 ## DATA PROJECTS
-
-===
 
 Listed below are several personal projects that I have worked on and carried out on my own in order to practice and understand Data Science and Data Analysis work in greater depth. To adequately understand what follows, it will be communicated following the structure:
 
