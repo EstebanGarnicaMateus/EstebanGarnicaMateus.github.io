@@ -63,7 +63,7 @@ I was provided with a DataFrame that describes the characteristics of a company'
 
 A data set of job applications for the position of data scientist is available on GlassDoor. From this data, relevant information is extracted about the features that are being most requested.
 
-#### Click on an Advertising [HERE](https://github.com/EstebanGarnicaMateus/EstebanGarnicaMateus.github.io/blob/main/Projects/Advertaising/ML_LR_microproject.ipynb) {: .btn}
+#### Click on an Advertising [HERE](https://github.com/EstebanGarnicaMateus/EstebanGarnicaMateus.github.io/blob/main/Projects/Advertaising/ML_LR_microproject.ipynb)
 
 A DataFrame containing the characteristics of a user is presented, along with information about whether this user has clicked on a banner ad or not. Using this data set, a prediction is made about whether another user with similar characteristics will click on the advertisement, using a logistic regression model (LRM).
 
@@ -87,6 +87,6 @@ Data is collected from people interested in obtaining credit, considering their 
 
 Data of various movies along with their characteristics are displayed. Considering these details, it is proposed to develop a model that can predict how much a film will gross based on its themes.
 
-### 🚧[Calculation of Life Expectancy](https://github.com/EstebanGarnicaMateus/EstebanGarnicaMateus.github.io/blob/main/Projects/Life_Expectancy/Life_expectancy.ipynb)🚧
+#### 🚧Calculation of Life Expectancy [HERE](https://github.com/EstebanGarnicaMateus/EstebanGarnicaMateus.github.io/blob/main/Projects/Life_Expectancy/Life_expectancy.ipynb)🚧
 
 A Dataframe containing the characteristics of various people is used to create a prediction model. This model allows the life expectancy of an individual to be estimated based on their attributes and medical care history.
