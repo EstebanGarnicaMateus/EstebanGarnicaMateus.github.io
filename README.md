@@ -63,7 +63,7 @@ I was provided with a DataFrame that describes the characteristics of a company'
 
 A data set of job applications for the position of data scientist is available on GlassDoor. From this data, relevant information is extracted about the features that are being most requested.
 
-### [Click on an Advertising](https://github.com/EstebanGarnicaMateus/EstebanGarnicaMateus.github.io/blob/main/Projects/Advertaising/ML_LR_microproject.ipynb)
+### Click on an Advertising [Click-on](https://github.com/EstebanGarnicaMateus/EstebanGarnicaMateus.github.io/blob/main/Projects/Advertaising/ML_LR_microproject.ipynb) {: .btn}
 
 A DataFrame containing the characteristics of a user is presented, along with information about whether this user has clicked on a banner ad or not. Using this data set, a prediction is made about whether another user with similar characteristics will click on the advertisement, using a logistic regression model (LRM).
 
@@ -71,22 +71,22 @@ A DataFrame containing the characteristics of a user is presented, along with in
 
 Using a DataFrame as a data source and the KNN algorithm, the instances of the main data set will be classified into one of the target classes.
 
-### [London Bike Sharing](https://github.com/EstebanGarnicaMateus/EstebanGarnicaMateus.github.io/blob/main/Projects/Bike_Sharing_London/Bike_sharing.ipynb)
+### London Bike Sharing [London Bike Sharing](https://github.com/EstebanGarnicaMateus/EstebanGarnicaMateus.github.io/blob/main/Projects/Bike_Sharing_London/Bike_sharing.ipynb)
 
 I was given a DataFrame with data on bike sharing in London and a cleaning demo and brief visualization was carried out using the Pandas, Numpy, Matplotlib and Seaborn libraries.
 
-### 🚧[Information for Titanic Passengers](https://github.com/EstebanGarnicaMateus/EstebanGarnicaMateus.github.io/blob/main/Projects/Titanic/Titanic.ipynb)
+### 🚧[Information for Titanic Passengers](https://github.com/EstebanGarnicaMateus/EstebanGarnicaMateus.github.io/blob/main/Projects/Titanic/Titanic.ipynb)🚧
 
 A Dataframe is used that contains the characteristics of various Titanic passengers, generating a visualization of the data. The different graphs allow a quick visual analysis of the data used.
 
-### 🚧[Potential to Acquire Credit](https://github.com/EstebanGarnicaMateus/EstebanGarnicaMateus.github.io/blob/main/Projects/Credit_Bank_Potential/Credit_bank.ipynb)
+### 🚧[Potential to Acquire Credit](https://github.com/EstebanGarnicaMateus/EstebanGarnicaMateus.github.io/blob/main/Projects/Credit_Bank_Potential/Credit_bank.ipynb)🚧
 
 Data is collected from people interested in obtaining credit, considering their economic conditions to determine their eligibility. In addition, a predictive model of the probability of credit approval is developed for each applicant.
 
-### 🚧[Forecast Movie IMDB](https://github.com/EstebanGarnicaMateus/EstebanGarnicaMateus.github.io/blob/main/Projects/Forecast_IMDB/Forecast_ML.ipynb)
+### 🚧[Forecast Movie IMDB](https://github.com/EstebanGarnicaMateus/EstebanGarnicaMateus.github.io/blob/main/Projects/Forecast_IMDB/Forecast_ML.ipynb)🚧
 
 Data of various movies along with their characteristics are displayed. Considering these details, it is proposed to develop a model that can predict how much a film will gross based on its themes.
 
-### 🚧[Calculation of Life Expectancy](https://github.com/EstebanGarnicaMateus/EstebanGarnicaMateus.github.io/blob/main/Projects/Life_Expectancy/Life_expectancy.ipynb) 
+### 🚧[Calculation of Life Expectancy](https://github.com/EstebanGarnicaMateus/EstebanGarnicaMateus.github.io/blob/main/Projects/Life_Expectancy/Life_expectancy.ipynb)🚧
 
 A Dataframe containing the characteristics of various people is used to create a prediction model. This model allows the life expectancy of an individual to be estimated based on their attributes and medical care history.
