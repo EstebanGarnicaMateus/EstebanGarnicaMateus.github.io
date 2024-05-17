@@ -16,7 +16,7 @@ Bilingual Physicist (ES-EN) from the [Universidad Pedagógica y Tecnológica de 
 
 **Tools:** Python, R, MATLAB, SQL, PowerBI, Excel, GitHub, Git, Pandas, Sklearn, NumPy.
 
-**Certifications:** Data Science Route ([Platzi](https://platzi.com/)), Basics: Data, data, everywhere (Google), How to solve problems and make decisions effectively (University of California, Irvine), Ciencia de Datos (MinTic - Universidad Distrital Francisco José de Caldas), Análisis de Datos (MinTic - Universidad Distrital Francisco José de Caldas).
+**Certifications:** Data Science Route ([Platzi](https://platzi.com/)), Google Data Analytics [Professional Certificate](https://www.coursera.org/programs/catalogo-abierto-andap-skz2d/professional-certificates/google-data-analytics), Ciencia de Datos (MinTic - Universidad Distrital Francisco José de Caldas), Análisis de Datos (MinTic - Universidad Distrital Francisco José de Caldas).
 
 ## WORK EXPERIENCE
 
