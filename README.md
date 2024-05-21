@@ -14,7 +14,7 @@ Bilingual Physicist (ES-EN) from the [Universidad Pedagógica y Tecnológica de 
 
 ## TECHNICAL SKILLS
 
-**Tools:** Python, R, MATLAB, SQL, PowerBI, Excel, GitHub, Git, Pandas, Sklearn, NumPy.
+**Tools:** Python, R, MATLAB, SQL, PowerBI, Excel, GitHub, Pandas, Sklearn, NumPy, Matplotlib, Seaborn.
 
 **Certifications:** Data Science Route ([Platzi](https://platzi.com/)), Google Data Analytics [Professional Certificate](https://www.coursera.org/programs/catalogo-abierto-andap-skz2d/professional-certificates/google-data-analytics), Ciencia de Datos (MinTic - Universidad Distrital Francisco José de Caldas), Análisis de Datos (MinTic - Universidad Distrital Francisco José de Caldas).
 
