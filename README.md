@@ -61,7 +61,7 @@ I was provided with a DataFrame that describes the characteristics of a company'
 
 #### Information About Data Science Jobs [HERE](https://github.com/EstebanGarnicaMateus/EstebanGarnicaMateus.github.io/blob/main/Projects/Glassdoor_Data_Jobs/DS_glassdoor.ipynb)
 
-A dataset of job applications for the position of data scientist is available on GlassDoor. From this data, relevant information is extracted about the most relevant skills that are most requested. Answering the question: __What are the main programming languages and characteristics that companies are looking for for a junior data scientist?__.
+A dataset of job applications for the position of data scientist is available on GlassDoor. From this data, relevant information is extracted about the most relevant skills that are most requested. Answering the question: __What are the main programming languages and characteristics that companies are looking for a junior data scientist?__.
 
 #### Click on an Advertising [HERE](https://github.com/EstebanGarnicaMateus/EstebanGarnicaMateus.github.io/blob/main/Projects/Advertaising/ML_LR_microproject.ipynb)
 
